@@ -3,7 +3,7 @@ ML model to classify sonar signals
 
 📌 Project Overview
 - This project uses Machine Learning to classify sonar signals as either:
- - Rock (R)
+ -  Rock (R)
  - Mine (M)
 The model is trained on sonar signal data where each sample represents reflected sound waves from objects underwater.
 
