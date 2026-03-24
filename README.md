@@ -39,7 +39,7 @@ ML model to classify sonar signals
 6. Prediction System
 - Custom input is given
 - Model predicts:
-  -Rock or Mine
+  - Rock or Mine
 
 🧠 Technologies Used
 - Python
