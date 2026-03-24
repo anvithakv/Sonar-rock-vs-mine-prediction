@@ -42,14 +42,14 @@ Each feature represents energy values at different frequencies of sonar signals.
   -Rock or Mine
 
 🧠 Technologies Used
-Python
-NumPy
-Pandas
-Scikit-learn
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
 
 📈 Results
-Training Accuracy: ~85–90%
-Testing Accuracy: ~75–85%
+- Training Accuracy: ~85–90%
+- Testing Accuracy: ~75–85%
 
 
 
