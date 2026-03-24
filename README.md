@@ -1,18 +1,18 @@
 # Sonar-rock-vs-mine-prediction
 ML model to classify sonar signals
 
-📌 Project Overview
+📌##Project Overview
 This project uses Machine Learning to classify sonar signals as either:
-Rock (R)
-Mine (M)
+-Rock (R)
+-Mine (M)
 The model is trained on sonar signal data where each sample represents reflected sound waves from objects underwater.
 
-📊 Dataset Information
-Total Samples: 208
-Features: 60 numerical attributes
-Target:
-R → Rock
-M → Mine
+📊 ##Dataset Information
+-Total Samples: 208
+-Features: 60 numerical attributes
+-Target:
+-R → Rock
+-M → Mine
 Each feature represents energy values at different frequencies of sonar signals.
 
 ⚙️ Workflow
