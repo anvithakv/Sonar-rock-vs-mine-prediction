@@ -13,7 +13,7 @@ ML model to classify sonar signals
 - Target:
   - R → Rock
   - M → Mine
-Each feature represents energy values at different frequencies of sonar signals.
+- Each feature represents energy values at different frequencies of sonar signals.
 
 ⚙️ Workflow
 1. Data Loading
